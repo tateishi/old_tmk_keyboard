@@ -1,4 +1,4 @@
-/* 
+/*
  * Hasu: my personal keymap
  */
 #include "keymap_common.h"
